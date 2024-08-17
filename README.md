@@ -1,3 +1,3 @@
-# project_sql
+# sql_shop_db
 
-My project about shop in Russia
+База данных для магазина Пятерочка
